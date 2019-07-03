@@ -4,13 +4,13 @@
     "repository": "https://github.com/Mrigank11/embetacloud",
     "env": {
         "GOOGLE_CLIENT_ID": {
-            "description": "Google Project's Client ID"
+            "description": "1063192620778-9s73ptq207mkcmj0q5kqp9qaajteckcj.apps.googleusercontent.com"
         },
         "GOOGLE_CLIENT_SECRET": {
-            "description": "Google Project's Client Secret"
+            "description": "ZbjfsnjEjQWtJPgMug6Dr1cD"
         },
         "GOOGLE_REDIRECT_URL": {
-            "description": "Google Project's Redirect url"
+            "description": " https://torrent2cloudd.herokuapp.com/oauthCallback"
         }
     }
 }
